@@ -11,20 +11,8 @@ Thrive is designed for anyone who is looking to improve their wellbeing and over
 ## Authors
 
 - [@AnujKumarSharma](https://github.com/ECLIPSED-007)
-- [@Anurag Jha](https://github.com/Anuragjha29)
-- [@ArpitKumarSharma](https://github.com/AKS-IS)
 
 
-
-## 🚀 About our Team
-Learning web Development!
-
-We are a team of three members Anuj Kumar Sharma,Anurag Jha and Arpit Kumar Sharma.
-
-We are Second year undergrad in Jaipur Engineering college and Research Centre.
-
-We are learnng Web Development from online resources as well as web dev is also taught in our Industrial Training.
-## Tech Stack
 
 **Client:** HTML, JavaSript, CSS
 
